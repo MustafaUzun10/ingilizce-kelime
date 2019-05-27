@@ -46,7 +46,7 @@ namespace ingilizceTurkce
             timeLabel.Text = (Convert.ToInt32(timeLabel.Text) - 1).ToString();
             if (timeLabel.Text == "0")
             {
-                timeLabel.Text = "5";
+                timeLabel.Text = "6";
                 string[] kelime = ke.rastgele_kelime();
                 label1.Text = kelime[1];
                 label2.Text = kelime[0];
