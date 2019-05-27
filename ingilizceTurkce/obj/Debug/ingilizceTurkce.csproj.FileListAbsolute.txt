@@ -1,0 +1,144 @@
+C:\Users\onurm\source\repos\ingilizceTurkce\ingilizceTurkce\bin\Debug\ingilizceTurkce.exe.config
+C:\Users\onurm\source\repos\ingilizceTurkce\ingilizceTurkce\bin\Debug\ingilizceTurkce.exe
+C:\Users\onurm\source\repos\ingilizceTurkce\ingilizceTurkce\bin\Debug\ingilizceTurkce.pdb
+C:\Users\onurm\source\repos\ingilizceTurkce\ingilizceTurkce\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\onurm\source\repos\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.Form1.resources
+C:\Users\onurm\source\repos\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.Properties.Resources.resources
+C:\Users\onurm\source\repos\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csproj.GenerateResource.cache
+C:\Users\onurm\source\repos\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csproj.CoreCompileInputs.cache
+C:\Users\onurm\source\repos\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csproj.CopyComplete
+C:\Users\onurm\source\repos\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.exe
+C:\Users\onurm\source\repos\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.pdb
+C:\Users\onurm\source\repos\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.Arama.resources
+C:\Users\onurm\source\repos\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.GirisYap.resources
+C:\Users\onurm\source\repos\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.istatistik.resources
+C:\Users\onurm\source\repos\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.KayitOl.resources
+C:\Users\onurm\source\repos\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.KelimeEkle.resources
+C:\Users\onurm\source\repos\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.KelimeEzberle.resources
+C:\Users\onurm\source\repos\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.TestCoz.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce\ingilizceTurkce\ingilizceTurkce\bin\Debug\ingilizceTurkce.exe.config
+C:\Users\RedVizor\Desktop\ingilizceTurkce\ingilizceTurkce\ingilizceTurkce\bin\Debug\ingilizceTurkce.exe
+C:\Users\RedVizor\Desktop\ingilizceTurkce\ingilizceTurkce\ingilizceTurkce\bin\Debug\ingilizceTurkce.pdb
+C:\Users\RedVizor\Desktop\ingilizceTurkce\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csprojAssemblyReference.cache
+C:\Users\RedVizor\Desktop\ingilizceTurkce\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.Arama.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.Form1.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.GirisYap.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.istatistik.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.KayitOl.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.KelimeEkle.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.KelimeEzberle.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.Properties.Resources.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.TestCoz.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csproj.GenerateResource.cache
+C:\Users\RedVizor\Desktop\ingilizceTurkce\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csproj.CoreCompileInputs.cache
+C:\Users\RedVizor\Desktop\ingilizceTurkce\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csproj.CopyComplete
+C:\Users\RedVizor\Desktop\ingilizceTurkce\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.exe
+C:\Users\RedVizor\Desktop\ingilizceTurkce\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.pdb
+C:\Users\RedVizor\Desktop\ingilizceTurkce 1\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csprojAssemblyReference.cache
+C:\Users\RedVizor\Desktop\ingilizceTurkce 1\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.Arama.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 1\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.Form1.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 1\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.GirisYap.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 1\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.istatistik.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 1\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.KayitOl.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 1\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.KelimeEkle.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 1\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.KelimeEzberle.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 1\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.Properties.Resources.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 1\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.TestCoz.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 1\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csproj.GenerateResource.cache
+C:\Users\RedVizor\Desktop\ingilizceTurkce 1\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csproj.CoreCompileInputs.cache
+C:\Users\RedVizor\Desktop\ingilizceTurkce 1\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.exe
+C:\Users\RedVizor\Desktop\ingilizceTurkce 1\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.pdb
+C:\Users\RedVizor\Desktop\ingilizceTurkce 1\ingilizceTurkce\ingilizceTurkce\bin\Debug\ingilizceTurkce.exe.config
+C:\Users\RedVizor\Desktop\ingilizceTurkce 1\ingilizceTurkce\ingilizceTurkce\bin\Debug\ingilizceTurkce.exe
+C:\Users\RedVizor\Desktop\ingilizceTurkce 1\ingilizceTurkce\ingilizceTurkce\bin\Debug\ingilizceTurkce.pdb
+C:\Users\RedVizor\Desktop\ingilizceTurkce 1\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csproj.CopyComplete
+C:\Users\RedVizor\Desktop\ingilizceTurkce 2\ingilizceTurkce\ingilizceTurkce\bin\Debug\ingilizceTurkce.exe.config
+C:\Users\RedVizor\Desktop\ingilizceTurkce 2\ingilizceTurkce\ingilizceTurkce\bin\Debug\ingilizceTurkce.exe
+C:\Users\RedVizor\Desktop\ingilizceTurkce 2\ingilizceTurkce\ingilizceTurkce\bin\Debug\ingilizceTurkce.pdb
+C:\Users\RedVizor\Desktop\ingilizceTurkce 2\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csprojAssemblyReference.cache
+C:\Users\RedVizor\Desktop\ingilizceTurkce 2\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.Arama.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 2\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.Form1.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 2\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.GirisYap.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 2\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.istatistik.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 2\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.KayitOl.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 2\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.KelimeEkle.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 2\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.KelimeEzberle.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 2\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.Properties.Resources.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 2\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.TestCoz.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 2\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csproj.GenerateResource.cache
+C:\Users\RedVizor\Desktop\ingilizceTurkce 2\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csproj.CoreCompileInputs.cache
+C:\Users\RedVizor\Desktop\ingilizceTurkce 2\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csproj.CopyComplete
+C:\Users\RedVizor\Desktop\ingilizceTurkce 2\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.exe
+C:\Users\RedVizor\Desktop\ingilizceTurkce 2\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.pdb
+C:\Users\RedVizor\Desktop\ingilizceTurkce 3\ingilizceTurkce\ingilizceTurkce\bin\Debug\ingilizceTurkce.exe.config
+C:\Users\RedVizor\Desktop\ingilizceTurkce 3\ingilizceTurkce\ingilizceTurkce\bin\Debug\ingilizceTurkce.exe
+C:\Users\RedVizor\Desktop\ingilizceTurkce 3\ingilizceTurkce\ingilizceTurkce\bin\Debug\ingilizceTurkce.pdb
+C:\Users\RedVizor\Desktop\ingilizceTurkce 3\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csprojAssemblyReference.cache
+C:\Users\RedVizor\Desktop\ingilizceTurkce 3\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.Arama.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 3\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.Form1.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 3\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.GirisYap.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 3\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.istatistik.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 3\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.KayitOl.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 3\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.KelimeEkle.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 3\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.KelimeEzberle.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 3\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.Properties.Resources.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 3\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.TestCoz.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 3\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csproj.GenerateResource.cache
+C:\Users\RedVizor\Desktop\ingilizceTurkce 3\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csproj.CoreCompileInputs.cache
+C:\Users\RedVizor\Desktop\ingilizceTurkce 3\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csproj.CopyComplete
+C:\Users\RedVizor\Desktop\ingilizceTurkce 3\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.exe
+C:\Users\RedVizor\Desktop\ingilizceTurkce 3\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.pdb
+C:\Users\RedVizor\Desktop\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csprojAssemblyReference.cache
+C:\Users\RedVizor\Desktop\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.Arama.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.Form1.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.GirisYap.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.istatistik.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.KayitOl.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.KelimeEkle.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.KelimeEzberle.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.Properties.Resources.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.TestCoz.resources
+C:\Users\RedVizor\Desktop\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csproj.GenerateResource.cache
+C:\Users\RedVizor\Desktop\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csproj.CoreCompileInputs.cache
+C:\Users\RedVizor\Desktop\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.exe
+C:\Users\RedVizor\Desktop\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.pdb
+C:\Users\RedVizor\Desktop\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\bin\Debug\ingilizceTurkce.exe.config
+C:\Users\RedVizor\Desktop\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\bin\Debug\ingilizceTurkce.exe
+C:\Users\RedVizor\Desktop\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\bin\Debug\ingilizceTurkce.pdb
+C:\Users\RedVizor\Desktop\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csproj.CopyComplete
+C:\Users\onurm\OneDrive\Masaüstü\ingilizceTurkce 4\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\bin\Debug\ingilizceTurkce.exe.config
+C:\Users\onurm\OneDrive\Masaüstü\ingilizceTurkce 4\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\bin\Debug\ingilizceTurkce.exe
+C:\Users\onurm\OneDrive\Masaüstü\ingilizceTurkce 4\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\bin\Debug\ingilizceTurkce.pdb
+C:\Users\onurm\OneDrive\Masaüstü\ingilizceTurkce 4\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csprojAssemblyReference.cache
+C:\Users\onurm\OneDrive\Masaüstü\ingilizceTurkce 4\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.Arama.resources
+C:\Users\onurm\OneDrive\Masaüstü\ingilizceTurkce 4\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.Form1.resources
+C:\Users\onurm\OneDrive\Masaüstü\ingilizceTurkce 4\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.GirisYap.resources
+C:\Users\onurm\OneDrive\Masaüstü\ingilizceTurkce 4\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.istatistik.resources
+C:\Users\onurm\OneDrive\Masaüstü\ingilizceTurkce 4\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.KayitOl.resources
+C:\Users\onurm\OneDrive\Masaüstü\ingilizceTurkce 4\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.KelimeEkle.resources
+C:\Users\onurm\OneDrive\Masaüstü\ingilizceTurkce 4\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.KelimeEzberle.resources
+C:\Users\onurm\OneDrive\Masaüstü\ingilizceTurkce 4\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.Properties.Resources.resources
+C:\Users\onurm\OneDrive\Masaüstü\ingilizceTurkce 4\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.TestCoz.resources
+C:\Users\onurm\OneDrive\Masaüstü\ingilizceTurkce 4\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csproj.GenerateResource.cache
+C:\Users\onurm\OneDrive\Masaüstü\ingilizceTurkce 4\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csproj.CoreCompileInputs.cache
+C:\Users\onurm\OneDrive\Masaüstü\ingilizceTurkce 4\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csproj.CopyComplete
+C:\Users\onurm\OneDrive\Masaüstü\ingilizceTurkce 4\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.exe
+C:\Users\onurm\OneDrive\Masaüstü\ingilizceTurkce 4\ingilizceTurkce 4\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.pdb
+C:\Users\onurm\OneDrive\Masaüstü\projeler\ingilizceTurkce111\ingilizceTurkce111\ingilizceTurkce\ingilizceTurkce\bin\Debug\ingilizceTurkce.exe.config
+C:\Users\onurm\OneDrive\Masaüstü\projeler\ingilizceTurkce111\ingilizceTurkce111\ingilizceTurkce\ingilizceTurkce\bin\Debug\ingilizceTurkce.exe
+C:\Users\onurm\OneDrive\Masaüstü\projeler\ingilizceTurkce111\ingilizceTurkce111\ingilizceTurkce\ingilizceTurkce\bin\Debug\ingilizceTurkce.pdb
+C:\Users\onurm\OneDrive\Masaüstü\projeler\ingilizceTurkce111\ingilizceTurkce111\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csprojAssemblyReference.cache
+C:\Users\onurm\OneDrive\Masaüstü\projeler\ingilizceTurkce111\ingilizceTurkce111\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.Arama.resources
+C:\Users\onurm\OneDrive\Masaüstü\projeler\ingilizceTurkce111\ingilizceTurkce111\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.Form1.resources
+C:\Users\onurm\OneDrive\Masaüstü\projeler\ingilizceTurkce111\ingilizceTurkce111\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.GirisYap.resources
+C:\Users\onurm\OneDrive\Masaüstü\projeler\ingilizceTurkce111\ingilizceTurkce111\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.istatistik.resources
+C:\Users\onurm\OneDrive\Masaüstü\projeler\ingilizceTurkce111\ingilizceTurkce111\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.KayitOl.resources
+C:\Users\onurm\OneDrive\Masaüstü\projeler\ingilizceTurkce111\ingilizceTurkce111\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.KelimeEkle.resources
+C:\Users\onurm\OneDrive\Masaüstü\projeler\ingilizceTurkce111\ingilizceTurkce111\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.KelimeEzberle.resources
+C:\Users\onurm\OneDrive\Masaüstü\projeler\ingilizceTurkce111\ingilizceTurkce111\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.Properties.Resources.resources
+C:\Users\onurm\OneDrive\Masaüstü\projeler\ingilizceTurkce111\ingilizceTurkce111\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.TestCoz.resources
+C:\Users\onurm\OneDrive\Masaüstü\projeler\ingilizceTurkce111\ingilizceTurkce111\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csproj.GenerateResource.cache
+C:\Users\onurm\OneDrive\Masaüstü\projeler\ingilizceTurkce111\ingilizceTurkce111\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csproj.CoreCompileInputs.cache
+C:\Users\onurm\OneDrive\Masaüstü\projeler\ingilizceTurkce111\ingilizceTurkce111\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.csproj.CopyComplete
+C:\Users\onurm\OneDrive\Masaüstü\projeler\ingilizceTurkce111\ingilizceTurkce111\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.exe
+C:\Users\onurm\OneDrive\Masaüstü\projeler\ingilizceTurkce111\ingilizceTurkce111\ingilizceTurkce\ingilizceTurkce\obj\Debug\ingilizceTurkce.pdb
